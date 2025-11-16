@@ -1,5 +1,4 @@
-{
-  "type": "FeatureCollection",
+"type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -7,9 +6,9 @@
         "Center": "Amer Center (Quality Government Service Center)",
         "link": "https://www.google.com/maps/search/Amer+Center+Quality+Government+Service+Center",
         "rating": 4.6,
-        "average_waiting_time": "5 minutes",
+        "average_waiting_time": "8 minutes",
         "Operational Efficiency": "95%",
-        "Employee Happiness": "9.1/10",
+        "Employee Happiness": "9.2/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -25,10 +24,10 @@
       "properties": {
         "Center": "Amer Services",
         "link": "https://www.google.com/maps/search/Amer+Services+Dubai",
-        "rating": 4.5,
+        "rating": 4.7,
         "average_waiting_time": "7 minutes",
-        "Operational Efficiency": "92%",
-        "Employee Happiness": "9.0/10",
+        "Operational Efficiency": "96%",
+        "Employee Happiness": "9.3/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -45,7 +44,7 @@
         "Center": "Amer Lounge Dubai Marina صالة آمر",
         "link": "https://www.google.com/maps/search/Amer+Lounge+Dubai+Marina",
         "rating": 4.8,
-        "average_waiting_time": "4 minutes",
+        "average_waiting_time": "6 minutes",
         "Operational Efficiency": "98%",
         "Employee Happiness": "9.5/10",
         "marker-color": "#7e7e7e",
@@ -65,8 +64,8 @@
         "link": "https://www.google.com/maps/search/Amer+Center+Al+Quoz+Al+Barsha+Mall",
         "rating": 4.4,
         "average_waiting_time": "8 minutes",
-        "Operational Efficiency": "91%",
-        "Employee Happiness": "8.8/10",
+        "Operational Efficiency": "92%",
+        "Employee Happiness": "8.9/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -82,10 +81,10 @@
       "properties": {
         "Center": "Amer Al Barsha",
         "link": "https://www.google.com/maps/search/Amer+Al+Barsha+Dubai",
-        "rating": 4.5,
-        "average_waiting_time": "7 minutes",
-        "Operational Efficiency": "93%",
-        "Employee Happiness": "9.0/10",
+        "rating": 4.6,
+        "average_waiting_time": "8 minutes",
+        "Operational Efficiency": "95%",
+        "Employee Happiness": "9.2/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -101,10 +100,10 @@
       "properties": {
         "Center": "Amer Center Al Quoz Mall | Bab Al Falah DCS",
         "link": "https://www.google.com/maps/search/Amer+Center+Al+Quoz+Mall",
-        "rating": 4.3,
+        "rating": 4.4,
         "average_waiting_time": "9 minutes",
-        "Operational Efficiency": "90%",
-        "Employee Happiness": "8.7/10",
+        "Operational Efficiency": "91%",
+        "Employee Happiness": "8.8/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -120,10 +119,10 @@
       "properties": {
         "Center": "Amer Center - Al Qouz مركز آمر - القوز",
         "link": "https://www.google.com/maps/search/Amer+Center+Al+Qouz",
-        "rating": 4.6,
+        "rating": 4.7,
         "average_waiting_time": "6 minutes",
-        "Operational Efficiency": "94%",
-        "Employee Happiness": "9.1/10",
+        "Operational Efficiency": "96%",
+        "Employee Happiness": "9.3/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -139,10 +138,10 @@
       "properties": {
         "Center": "Amer Sheikh Zayed Road | Free Valet | Visa Service",
         "link": "https://www.google.com/maps/search/Amer+Sheikh+Zayed+Road+Dubai",
-        "rating": 4.7,
+        "rating": 4.8,
         "average_waiting_time": "5 minutes",
-        "Operational Efficiency": "96%",
-        "Employee Happiness": "9.3/10",
+        "Operational Efficiency": "98%",
+        "Employee Happiness": "9.5/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -158,10 +157,10 @@
       "properties": {
         "Center": "References Government Services",
         "link": "https://www.google.com/maps/search/References+Government+Services+Dubai",
-        "rating": 4.3,
+        "rating": 4.4,
         "average_waiting_time": "8 minutes",
         "Operational Efficiency": "91%",
-        "Employee Happiness": "8.9/10",
+        "Employee Happiness": "8.8/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -178,7 +177,7 @@
         "Center": "Amer 247",
         "link": "https://www.google.com/maps/search/Amer+247+Dubai",
         "rating": 4.9,
-        "average_waiting_time": "3 minutes",
+        "average_waiting_time": "5 minutes",
         "Operational Efficiency": "99%",
         "Employee Happiness": "9.7/10",
         "marker-color": "#7e7e7e",
@@ -198,8 +197,8 @@
         "link": "https://www.google.com/maps/search/Amer+Oasis+Mall+Alreaya",
         "rating": 4.5,
         "average_waiting_time": "7 minutes",
-        "Operational Efficiency": "92%",
-        "Employee Happiness": "9.0/10",
+        "Operational Efficiency": "94%",
+        "Employee Happiness": "9.1/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -216,9 +215,9 @@
         "Center": "Dubai National Government Services - Amer",
         "link": "https://www.google.com/maps/search/Dubai+National+Government+Services+Amer",
         "rating": 4.6,
-        "average_waiting_time": "6 minutes",
-        "Operational Efficiency": "94%",
-        "Employee Happiness": "9.1/10",
+        "average_waiting_time": "8 minutes",
+        "Operational Efficiency": "95%",
+        "Employee Happiness": "9.2/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -235,9 +234,9 @@
         "Center": "OnTime Government Services Al Manara Center | DET | Amer | Typing Center",
         "link": "https://www.google.com/maps/search/OnTime+Government+Services+Al+Manara+Center",
         "rating": 4.4,
-        "average_waiting_time": "8 minutes",
-        "Operational Efficiency": "91%",
-        "Employee Happiness": "8.8/10",
+        "average_waiting_time": "9 minutes",
+        "Operational Efficiency": "92%",
+        "Employee Happiness": "8.9/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -253,10 +252,10 @@
       "properties": {
         "Center": "EGSH Emirates Government Services Hub",
         "link": "https://www.google.com/maps/search/EGSH+Emirates+Government+Services+Hub",
-        "rating": 4.5,
-        "average_waiting_time": "6 minutes",
-        "Operational Efficiency": "93%",
-        "Employee Happiness": "9.0/10",
+        "rating": 4.7,
+        "average_waiting_time": "7 minutes",
+        "Operational Efficiency": "96%",
+        "Employee Happiness": "9.3/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -272,10 +271,10 @@
       "properties": {
         "Center": "AMER ( Tathqeef government service) Al Quoz - آمر ( تثقيف للخدمات الحكومية) القوز",
         "link": "https://www.google.com/maps/search/AMER+Tathqeef+government+service+Al+Quoz",
-        "rating": 4.4,
-        "average_waiting_time": "8 minutes",
-        "Operational Efficiency": "90%",
-        "Employee Happiness": "8.7/10",
+        "rating": 4.6,
+        "average_waiting_time": "6 minutes",
+        "Operational Efficiency": "95%",
+        "Employee Happiness": "9.2/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -291,10 +290,10 @@
       "properties": {
         "Center": "Amer Center | Dubai Economy - Al Garhoud Government Transaction Center مركز آمر القرهود / خدمات دائرة التنمية الاقتصادية دبي",
         "link": "https://www.google.com/maps/search/Amer+Center+Dubai+Economy+Al+Garhoud",
-        "rating": 4.6,
-        "average_waiting_time": "6 minutes",
-        "Operational Efficiency": "95%",
-        "Employee Happiness": "9.2/10",
+        "rating": 4.8,
+        "average_waiting_time": "7 minutes",
+        "Operational Efficiency": "98%",
+        "Employee Happiness": "9.5/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -310,10 +309,10 @@
       "properties": {
         "Center": "Amer Centre Dubai - Main Branch",
         "link": "https://www.google.com/maps/search/Amer+Centre+Dubai+Main+Branch",
-        "rating": 4.8,
-        "average_waiting_time": "5 minutes",
-        "Operational Efficiency": "97%",
-        "Employee Happiness": "9.4/10",
+        "rating": 4.7,
+        "average_waiting_time": "6 minutes",
+        "Operational Efficiency": "96%",
+        "Employee Happiness": "9.3/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -329,10 +328,10 @@
       "properties": {
         "Center": "Do It Businessmen Services",
         "link": "https://www.google.com/maps/search/Do+It+Businessmen+Services+Dubai",
-        "rating": 4.3,
-        "average_waiting_time": "9 minutes",
-        "Operational Efficiency": "90%",
-        "Employee Happiness": "8.8/10",
+        "rating": 4.6,
+        "average_waiting_time": "7 minutes",
+        "Operational Efficiency": "95%",
+        "Employee Happiness": "9.2/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -348,10 +347,10 @@
       "properties": {
         "Center": "Amer Center - Al Taresh Government Services",
         "link": "https://www.google.com/maps/search/Amer+Center+Al+Taresh+Government+Services",
-        "rating": 4.9,
-        "average_waiting_time": "4 minutes",
+        "rating": 4.8,
+        "average_waiting_time": "6 minutes",
         "Operational Efficiency": "98%",
-        "Employee Happiness": "9.6/10",
+        "Employee Happiness": "9.5/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -367,10 +366,10 @@
       "properties": {
         "Center": "Services 1 Center",
         "link": "https://www.google.com/maps/search/Services+1+Center+Dubai",
-        "rating": 4.4,
+        "rating": 4.7,
         "average_waiting_time": "7 minutes",
-        "Operational Efficiency": "93%",
-        "Employee Happiness": "8.9/10",
+        "Operational Efficiency": "96%",
+        "Employee Happiness": "9.3/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
