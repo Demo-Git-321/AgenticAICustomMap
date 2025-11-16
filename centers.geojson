@@ -101,7 +101,7 @@
       "properties": {
         "Center": "Amer Center Al Quoz Mall | Bab Al Falah DCS",
         "link": "https://www.google.com/maps/search/Amer+Center+Al+Quoz+Mall",
-        "rating": 4.3,
+        "rating": 4.4,
         "average_waiting_time": "9 minutes",
         "Operational Efficiency": "90%",
         "Employee Happiness": "8.7/10",
@@ -158,8 +158,8 @@
       "properties": {
         "Center": "References Government Services",
         "link": "https://www.google.com/maps/search/References+Government+Services+Dubai",
-        "rating": 4.3,
-        "average_waiting_time": "8 minutes",
+        "rating": 4.5,
+        "average_waiting_time": "7 minutes",
         "Operational Efficiency": "91%",
         "Employee Happiness": "8.9/10",
         "marker-color": "#7e7e7e",
@@ -272,10 +272,10 @@
       "properties": {
         "Center": "AMER ( Tathqeef government service) Al Quoz - آمر ( تثقيف للخدمات الحكومية) القوز",
         "link": "https://www.google.com/maps/search/AMER+Tathqeef+government+service+Al+Quoz",
-        "rating": 4.4,
-        "average_waiting_time": "8 minutes",
-        "Operational Efficiency": "90%",
-        "Employee Happiness": "8.7/10",
+        "rating": 4.8,
+        "average_waiting_time": "5 minutes",
+        "Operational Efficiency": "94%",
+        "Employee Happiness": "9.3/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
@@ -329,7 +329,7 @@
       "properties": {
         "Center": "Do It Businessmen Services",
         "link": "https://www.google.com/maps/search/Do+It+Businessmen+Services+Dubai",
-        "rating": 4.3,
+        "rating": 4.4,
         "average_waiting_time": "9 minutes",
         "Operational Efficiency": "90%",
         "Employee Happiness": "8.8/10",
@@ -367,10 +367,10 @@
       "properties": {
         "Center": "Services 1 Center",
         "link": "https://www.google.com/maps/search/Services+1+Center+Dubai",
-        "rating": 4.4,
+        "rating": 4.6,
         "average_waiting_time": "7 minutes",
         "Operational Efficiency": "93%",
-        "Employee Happiness": "8.9/10",
+        "Employee Happiness": "9.0/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle"
