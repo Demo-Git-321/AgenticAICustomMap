@@ -63,7 +63,7 @@
       "properties": {
         "Center": "Amer Center Al Quoz | Al Barsha Mall",
         "link": "https://www.google.com/maps/search/Amer+Center+Al+Quoz+Al+Barsha+Mall",
-        "rating": 4.4,
+        "rating": 4.5,
         "average_waiting_time": "8 minutes",
         "Operational Efficiency": "91%",
         "Employee Happiness": "8.8/10",
@@ -196,9 +196,9 @@
       "properties": {
         "Center": "Amer Oasis Mall Alreaya",
         "link": "https://www.google.com/maps/search/Amer+Oasis+Mall+Alreaya",
-        "rating": 4.5,
-        "average_waiting_time": "7 minutes",
-        "Operational Efficiency": "92%",
+        "rating": 4.3,
+        "average_waiting_time": "10 minutes",
+        "Operational Efficiency": "88%",
         "Employee Happiness": "9.0/10",
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
