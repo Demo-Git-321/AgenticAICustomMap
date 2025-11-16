@@ -200,11 +200,11 @@
             return ''; // Default color
         }
 
-        if (numericValue < 7) {
+        if (numericValue <= 7) {
             return 'wt-green';
-        } else if (numericValue >= 7 && numericValue <= 8) {
+        } else if (numericValue > 7 && numericValue <= 9) {
             return 'wt-yellow';
-        } else { // numericValue > 8
+        } else { // numericValue > 9
             return 'wt-red';
         }
     };
@@ -438,3 +438,4 @@
   </script>
 </body>
 </html>
+
